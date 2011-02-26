@@ -6,6 +6,8 @@ A Django app for the full Reina Valera Gómez Bible text.
 Plugs into the Django-Bibletext App and provides the full
 Reina-Valera Gómez text.
 
+You can see it in action [here.](http://westcoastbaptistkjv.org/bible/RVG/)
+
 Dependencies
 ------------
 
