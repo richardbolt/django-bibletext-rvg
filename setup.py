@@ -48,9 +48,9 @@ version = '0.1.0'
 
 
 setup(
-    name='Django-Bibletext',
+    name='Bibletext-RVG',
     version=version,
-    url='https://github.com/richardbolt/django-bibletext',
+    url='https://github.com/richardbolt/django-bibletext-rvg',
     author='Richard Bolt',
     author_email='richard@richardbolt.com',
     description=('A Django app for the full Reina Valera Gómez Bible text.'
